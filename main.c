@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include<stdio.h>
+#include <stdio.h>
+#include <math.h>
 #include "matematica.h"
 //https://github.com/malu-lauar/teste.git
 
